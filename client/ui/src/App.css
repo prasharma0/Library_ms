@@ -1,0 +1,71 @@
+.ant-layout-sider-children .logo {
+  height: 50px;
+  background: rgba(0, 21, 41, 0.959);
+  text-align: center;
+}
+
+.image {
+  margin-top: 5px;
+  height: 50px;
+  width: 75px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+.dashboard-wrapper {
+  height: 360px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.web-title {
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: #1b551a;
+  font-size: 27px;
+  margin-bottom: 0;
+}
+.lft {
+  color: #1a8ffc;
+  font-weight: bolder;
+  margin-bottom: 0;
+}
+.course {
+  font-weight: 700;
+  color: #9b4abbb3;
+  margin-bottom: 0;
+}
+.instructor {
+  font-family: monospace;
+  font-weight: bolder;
+  font-style: italic;
+  color: #26561a;
+}
+.title-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0px;
+  align-items: center;
+}
+.ant-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.operation-wrapper {
+  display: flex;
+}
+.btn-component-wrapper {
+  margin: 0 10px;
+}
+.header-navbar {
+  display: flex;
+  flex-direction: row-reverse;
+}
+.ant-menu.ant-menu-dark .ant-menu-item-selected, .ant-menu-submenu-popup.ant-menu-dark .ant-menu-item-selected {
+  background-color: rgba(0, 21, 41, 0.959) !important;
+  
+}
